@@ -3,20 +3,3 @@
   "download_url": "https://github.com/Pepinamix/ManzaSoft-V-1.0/releases/download/v1.0.2/OpenCleanStudioPro_Setup_v1.0.2.exe",
   "novedades": "• Lanzamiento oficial de la v1.0.2.\n• Mejoras generales de rendimiento, idioma y bugs"
 }
-{
-  "version": "1.0.2",
-  "url": "https://github.com/Pepinamix/ManzaSoft-V-1.0/releases/download/v1.0.2/OpenCleanStudioPro_Setup_v1.0.2.exe",
-  "mandatory": false,
-  "notes": [
-    "Nueva configuración de idioma ES/EN persistente",
-    "Apariencia Light/Dark/System",
-    "Actualizaciones automáticas configurables",
-    "Diagnóstico rápido del PC",
-    "Comprobación de Windows Update",
-    "Informe de batería",
-    "Informe de diagnóstico para soporte",
-    "Registros locales",
-    "Identidad comercial © ManzaSoft",
-    "Correcciones y mejoras de interfaz"
-  ]
-}
